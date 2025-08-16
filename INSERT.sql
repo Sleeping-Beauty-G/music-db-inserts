@@ -28,7 +28,7 @@ INSERT INTO Track (title, duration, album_id) VALUES
 ('If You Had My Love', 245, 3),
 ('Waiting for Tonight', 250, 3),
 ('Python', 220, 4),
-('Fresh Start', 200, 5);
+('Fresh Start', 200, 4);
 
 -- Сборники
 INSERT INTO Compilation (title, release_year) VALUES
